@@ -2,7 +2,7 @@
 
 This is a very, very basic setup to get started with building dApps with Vue3, Vite, Hardhat and WindiCSS.
 
-The basic setup is taken from [Nader Dabit]()s awesome post [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13). I just used Vite + Vue3 instead of React because a) I like Vue better than React and b) Vite is fast.
+The basic setup is taken from [Nader Dabit](https://github.com/dabit3/)s awesome post [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) (see [React code here](https://github.com/dabit3/full-stack-ethereum)). I just used Vite + Vue3 instead of React because a) I like Vue better than React and b) Vite is fast.
 
 ## Installation
 
